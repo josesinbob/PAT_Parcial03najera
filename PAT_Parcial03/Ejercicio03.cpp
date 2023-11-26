@@ -23,4 +23,3 @@ string TimeMap::get(string key, int timestamp)
     --it;
     return it->second;
 }
-
